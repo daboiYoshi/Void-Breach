@@ -1,6 +1,6 @@
 # VOID BREACH 🚀
 
-**A 3D-style space shooter built entirely with vanilla HTML, CSS & JavaScript — no server required.**
+**A 2D-style space shooter built entirely with vanilla HTML, CSS & JavaScript.**
 
 ---
 
